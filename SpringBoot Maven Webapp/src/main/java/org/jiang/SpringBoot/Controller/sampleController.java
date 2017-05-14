@@ -1,4 +1,4 @@
-package org.jiang.SpringBoot.Application;
+package org.jiang.SpringBoot.Controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
